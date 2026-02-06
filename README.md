@@ -6,7 +6,7 @@ An end-to-end **Natural Language Processing (NLP)** project for **3-class sentim
 The project covers the full NLP workflow — from data exploration and preprocessing to
 model training, evaluation, and deployment via an interactive **Streamlit web app**.
 
-🔗 **Live App:** https://threads-sentiment-analysis.streamlit.app/
+🔗 **Live App:** https://threads-sentiment-analysis-78orbyxozpc.streamlit.app/
 
 ---
 
